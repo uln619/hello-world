@@ -1,2 +1,2 @@
 # hello-world
-This is where I put my code and make some fun stuff heh
+Here I start to code and make some fun stuff heh
